@@ -24,7 +24,7 @@ Because we become aware to only a small fraction of external stimuli, understand
 * Found statistically significant differences between males and females in their priority dimension.
 * Visualized findings in support of conclusions, using ggplot2 (R statistical package). Example visualizations are shown below.
 
-![](/images/proj2_1.png){: padding-bottom:50px" }
+![](/images/proj2_1.png)
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![](/images/proj2_2.png)
