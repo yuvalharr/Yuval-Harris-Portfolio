@@ -13,9 +13,9 @@ Non-conscious prioritization speed (NPS) is an individual trait describing the s
 ![](/images/Picture2.png)
 
 
-# [Examining gender differences in face prioritization for consciousness](https://github.com/yuvalharr/yuvalharr.github.io.git)
+# [Examining gender differences in face prioritization for consciousness](https://github.com/yuvalharr/genderDim_2)
 #### My BSc final project in cognitive sciences involved the following:
-Because we become aware to only a small fraction of external stimuli, understanding the determinants of conscious experience is extremely interesting. Here I used a novel data-driven approach to explore gender differences in the determinants for consciousness of human faces. In a 100 participants study I uncovered physical facial dimensions capable of explaining the speed in which faces will reach conscious awareness. I showed strong evidence for a distinct difference in these dimensions between the two genders.
+Because we become aware to only a small fraction of external stimuli, understanding the determinants of conscious experience is extremely interesting. Here I used a novel data-driven approach to explore gender differences in the determinants for consciousness of human faces. In a 100 participants study I uncovered physical facial dimensions capable of explaining the speed in which faces will reach conscious awareness. I showed strong evidence for a distinct difference in these dimensions between the two genders. The full  paper can be found [Here](https://drive.google.com/file/d/1SxxfTaOJJ6WVmOaSscZkUepeAXzdBN57/view?usp=sharing).
 
 * Developed and deployed online experiments using HTML, JavaScript and AWS.
 * Prepared, cleaned, and tranformed raw data using R.
