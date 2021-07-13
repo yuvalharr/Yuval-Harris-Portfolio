@@ -9,4 +9,6 @@ Non-conscious prioritization speed (NPS) is an individual trait describing the s
 * Found a significant correlation between NPS and various perception ability parameters.
 * Visualized findings in support of conclusions, using ggplot2 (R statistical package).
 
+![](/images/Picture1.png)
+![](/images/Picture2.png)
 
