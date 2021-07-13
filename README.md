@@ -25,4 +25,6 @@ Because we become aware to only a small fraction of external stimuli, understand
 * Visualized findings in support of conclusions, using ggplot2 (R statistical package). Example visualizations are shown below.
 
 ![](/images/proj2_1.png)
+
+
 ![](/images/proj2_2.png)
