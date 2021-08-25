@@ -22,7 +22,7 @@ Because we become aware to only a small fraction of external stimuli, understand
 * Explored and visualized data using descriptive statistical analysis.
 * Deployed a data-driven approach for analysis. Used reverse correlation to model the facial-properties dimensions predictive of prioritization speed.
 * Found statistically significant differences between males and females in their priority dimension.
-* Visualized findings in support of conclusions, using ggplot2 (R statistical package). Example visualizations are shown below.
+* Visualized findings in support of conclusions, using ggplot2 (R statistical package) and more. Example visualizations are shown below.
 
 ![](/images/proj2_1.png)
 
